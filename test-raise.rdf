@@ -1,0 +1,497 @@
+
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2026-05-19T04:56:36Z</responseDate>
+<request verb="ListRecords" metadataPrefix="dcat_ap">https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:raise:10.83613/raise-dev/dataset/08de5ac5-b7de-4862-8b1f-b9582c9b8d3a</identifier>
+<datestamp>2026-01-23</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08de5ac5-b7de-4862-8b1f-b9582c9b8d3a"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08de5ac5-b7de-4862-8b1f-b9582c9b8d3a">
+<dct:title xml:lang="el">CSV IRIS δοκιμαστικό σύνολο δεδομένων</dct:title>
+<dct:title xml:lang="en">2 csv iris Sample Dataset Title</dct:title>
+<dct:description xml:lang="en">This is a sample dataset description for testing purposes.</dct:description>
+<dct:identifier>10.83613/raise-dev/dataset/08de5ac5-b7de-4862-8b1f-b9582c9b8d3a</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-31</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-01-23</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>Sample Creator</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PRIVATE"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08de5ac5-b7de-4862-8b1f-b9582c9b8d3a"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08de5ac5-b7de-4862-8b1f-b9582c9b8d3a"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+<dcat:keyword xml:lang="el">Υγεία</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08de5ac5-b7de-4862-8b1f-b9582c9b8d3a">
+<dct:title xml:lang="el">Δοκιμαστικό σύνολο</dct:title>
+<dct:title xml:lang="en">Test Dataset</dct:title>
+<dct:description xml:lang="el">Αυτο το σύνολο περιεχει δοκιμαστικά δεδομένα</dct:description>
+<dct:description xml:lang="en">The dataset contais test data</dct:description>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08de5ac5-b7de-4862-8b1f-b9582c9b8d3a"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">344</dcat:byteSize>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:10.83613/raise-dev/dataset/08dea5d9-7569-4bfd-8563-5c30372a3ef9</identifier>
+<datestamp>2026-04-29</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08dea5d9-7569-4bfd-8563-5c30372a3ef9"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08dea5d9-7569-4bfd-8563-5c30372a3ef9">
+<dct:title xml:lang="en">ΗΜΕΡΟΛΟΓΙΟ-ΛΙΑΝΙΚΩΝ-ΤΙΜΩΝ ΚΑΥΣΙΜΩΝ (sample)</dct:title>
+<dct:description xml:lang="en">ΤΙΜΕΣ ΛΙΑΝΙΚΗΣ ΚΑΥΣΙΜΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ ΑΠΟ 2007 ΕΩΣ 04-2026</dct:description>
+<dct:identifier>10.83613/raise-dev/dataset/08dea5d9-7569-4bfd-8563-5c30372a3ef9</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-04-27</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-04-29</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>Evdo</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08dea5d9-7569-4bfd-8563-5c30372a3ef9"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08dea5d9-7569-4bfd-8563-5c30372a3ef9"/>
+<dcat:keyword xml:lang="en">LifeSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08dea5d9-7569-4bfd-8563-5c30372a3ef9">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08dea5d9-7569-4bfd-8563-5c30372a3ef9"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08dd6171-ce4c-4df0-8b20-ed413dfd0704</identifier>
+<datestamp>2025-03-20</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08dd6171-ce4c-4df0-8b20-ed413dfd0704"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08dd6171-ce4c-4df0-8b20-ed413dfd0704">
+<dct:title xml:lang="en">IRIS</dct:title>
+<dct:description xml:lang="en">The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository. It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08dd6171-ce4c-4df0-8b20-ed413dfd0704</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-11</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-20</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd6171-ce4c-4df0-8b20-ed413dfd0704"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08dd6171-ce4c-4df0-8b20-ed413dfd0704"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08dd6171-ce4c-4df0-8b20-ed413dfd0704">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd6171-ce4c-4df0-8b20-ed413dfd0704"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="https://opendatacommons.org/licenses/by/1-0/"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08dd8ecc-a76f-4037-88dd-3d1c5d6db563</identifier>
+<datestamp>2025-05-09</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08dd8ecc-a76f-4037-88dd-3d1c5d6db563"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08dd8ecc-a76f-4037-88dd-3d1c5d6db563">
+<dct:title xml:lang="en">Consortium questionnaire (second year) for UX</dct:title>
+<dct:description xml:lang="en">This is the excel file with the responses of the questionnaire for the RAISE WPs management quality.</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08dd8ecc-a76f-4037-88dd-3d1c5d6db563</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-05</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-09</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd8ecc-a76f-4037-88dd-3d1c5d6db563"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08dd8ecc-a76f-4037-88dd-3d1c5d6db563"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08dd8ecc-a76f-4037-88dd-3d1c5d6db563">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd8ecc-a76f-4037-88dd-3d1c5d6db563"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08dd9841-dea5-4171-80d8-c86802503e87</identifier>
+<datestamp>2025-05-21</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08dd9841-dea5-4171-80d8-c86802503e87"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08dd9841-dea5-4171-80d8-c86802503e87">
+<dct:title xml:lang="en">test nikos 3</dct:title>
+<dct:description xml:lang="en">asdf</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08dd9841-dea5-4171-80d8-c86802503e87</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-20</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-21</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>nikos</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd9841-dea5-4171-80d8-c86802503e87"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08dd9841-dea5-4171-80d8-c86802503e87"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08dd9841-dea5-4171-80d8-c86802503e87">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd9841-dea5-4171-80d8-c86802503e87"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08dd9c87-cb4d-46bf-8612-c68028868429</identifier>
+<datestamp>2025-05-26</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08dd9c87-cb4d-46bf-8612-c68028868429"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08dd9c87-cb4d-46bf-8612-c68028868429">
+<dct:title xml:lang="en">questionnaire test</dct:title>
+<dct:description xml:lang="en">questionnaire test</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08dd9c87-cb4d-46bf-8612-c68028868429</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-25</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-26</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>evdo</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd9c87-cb4d-46bf-8612-c68028868429"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08dd9c87-cb4d-46bf-8612-c68028868429"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08dd9c87-cb4d-46bf-8612-c68028868429">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08dd9c87-cb4d-46bf-8612-c68028868429"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5</identifier>
+<datestamp>2025-07-15</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5">
+<dct:title xml:lang="en">evdo14</dct:title>
+<dct:description xml:lang="en">evdo14</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-14</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-15</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>evdo14</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08ddc3b3-f6d2-4fd4-84ca-ce645fd50de5"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08ddc467-b6c0-4008-8a5f-05ae1a0005e0</identifier>
+<datestamp>2025-07-16</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08ddc467-b6c0-4008-8a5f-05ae1a0005e0"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08ddc467-b6c0-4008-8a5f-05ae1a0005e0">
+<dct:title xml:lang="en">nikos-evdo-1</dct:title>
+<dct:description xml:lang="en">nikos-evdo-1</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08ddc467-b6c0-4008-8a5f-05ae1a0005e0</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-15</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-16</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>nikos-evdo-1</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08ddc467-b6c0-4008-8a5f-05ae1a0005e0"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08ddc467-b6c0-4008-8a5f-05ae1a0005e0"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08ddc467-b6c0-4008-8a5f-05ae1a0005e0">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08ddc467-b6c0-4008-8a5f-05ae1a0005e0"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08ddd0c3-2269-4127-8240-a28502b02ae1</identifier>
+<datestamp>2025-08-01</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08ddd0c3-2269-4127-8240-a28502b02ae1"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08ddd0c3-2269-4127-8240-a28502b02ae1">
+<dct:title xml:lang="en">2K patients synthetic OMOP-CDM</dct:title>
+<dct:description xml:lang="en">It's a duckdb database with 2 thousand synthetic patients.</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08ddd0c3-2269-4127-8240-a28502b02ae1</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-31</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-01</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>Alexandros Rekkas</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08ddd0c3-2269-4127-8240-a28502b02ae1"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08ddd0c3-2269-4127-8240-a28502b02ae1"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08ddd0c3-2269-4127-8240-a28502b02ae1">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08ddd0c3-2269-4127-8240-a28502b02ae1"/>
+<dct:format rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.duckdb"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08dde639-d9a7-492a-8909-5f83364e3668</identifier>
+<datestamp>2025-08-28</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08dde639-d9a7-492a-8909-5f83364e3668"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08dde639-d9a7-492a-8909-5f83364e3668">
+<dct:title xml:lang="en">openNeuroTest</dct:title>
+<dct:description xml:lang="en">melanitis</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08dde639-d9a7-492a-8909-5f83364e3668</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-27</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-28</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>Melanitis</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08dde639-d9a7-492a-8909-5f83364e3668"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08dde639-d9a7-492a-8909-5f83364e3668"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08dde639-d9a7-492a-8909-5f83364e3668">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08dde639-d9a7-492a-8909-5f83364e3668"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:raise:21.T15999/raise-dev/dataset/08de2376-bb03-4183-8723-90f8fdc5723d</identifier>
+<datestamp>2025-11-14</datestamp>
+</header>
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<dcat:Catalog rdf:about="https://develop.api.portal.raise-science.eu/oai/user/0f868393-e7b7-49c2-9a2b-5421b6fbd266#catalog">
+<dct:title xml:lang="en">Evdokimos Konstantinidis's Catalog</dct:title>
+<dct:description xml:lang="en">Datasets published by Evdokimos Konstantinidis on the RAISE Portal.</dct:description>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dcat:dataset rdf:resource="https://develop.api.portal.raise-science.eu/oai#dataset-08de2376-bb03-4183-8723-90f8fdc5723d"/>
+</dcat:Catalog>
+<foaf:Person rdf:about="https://orcid.org/0000-0002-5522-9553">
+<foaf:name>Evdokimos Konstantinidis</foaf:name>
+<dct:identifier rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+</foaf:Person>
+<dcat:Dataset rdf:about="https://develop.api.portal.raise-science.eu/oai#dataset-08de2376-bb03-4183-8723-90f8fdc5723d">
+<dct:title xml:lang="en">raise-questionnaire-20251114</dct:title>
+<dct:description xml:lang="en">dokimi</dct:description>
+<dct:identifier>21.T15999/raise-dev/dataset/08de2376-bb03-4183-8723-90f8fdc5723d</dct:identifier>
+<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-11-13</dct:issued>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-11-14</dct:modified>
+<dct:creator rdf:parseType="Resource">
+<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+<foaf:name>ev</foaf:name>
+</dct:creator>
+<dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+<dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08de2376-bb03-4183-8723-90f8fdc5723d"/>
+<dcat:distribution rdf:resource="https://develop.api.portal.raise-science.eu/oai#distribution-08de2376-bb03-4183-8723-90f8fdc5723d"/>
+<dcat:keyword xml:lang="en">HealthSciences</dcat:keyword>
+</dcat:Dataset>
+<dcat:Distribution rdf:about="https://develop.api.portal.raise-science.eu/oai#distribution-08de2376-bb03-4183-8723-90f8fdc5723d">
+<dcat:accessURL rdf:resource="https://develop.portal.raise-science.eu/datasets/08de2376-bb03-4183-8723-90f8fdc5723d"/>
+<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
+<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/PUBLIC_DOMAIN"/>
+</dcat:Distribution>
+</rdf:RDF>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>
