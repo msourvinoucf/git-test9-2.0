@@ -32,7 +32,7 @@
 <foaf:name>Sample Creator</foaf:name>
 </dct:creator>
 <dct:publisher rdf:resource="https://orcid.org/0000-0002-5522-9553"/>
-<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PRIVATE"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
 <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
 <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
 <dcat:landingPage rdf:resource="https://develop.portal.raise-science.eu/datasets/08de5ac5-b7de-4862-8b1f-b9582c9b8d3a"/>
